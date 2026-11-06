@@ -1,7 +1,24 @@
-# Week 01 — Network Security
+# DS-ACTG-003 — Week 01: Network Security
 
-This directory contains an [original Docker networking lab](docker-lab.md) suitable for local, authorized practice.
+**Unofficial, independently written study resources** for *Basic Fundamentals and Network Elements*.
 
-Topics: network elements, IPv4 and MAC, ARP, ICMP, routing and traceroute, passive vs active attacks, and network isolation.
+## Study path
 
-> Disclaimer: a Docker bridge network is **not** identical to a VM bridged adapter. Docker IPAM is **not** a DHCP protocol exchange. The tutorial makes no claim to satisfy an official homework specification in full.
+1. **[Complete study notes](study-notes.md)** — network elements and topologies; TCP/IP stack; ARP, ICMP, TCP/UDP and DNS; TLS and protocol security; passive/active and network-level attack taxonomy.
+2. **[Original self-assessment questions](practice-questions.md)** — 16 questions with expandable answers and explanations.
+3. **[Docker networking lab](docker-lab.md)** — reproducible, authorized hands-on practice with three Alpine containers, packet capture and network analysis.
+
+### Learning sequence
+
+**Read → Compare protocols → Test yourself → Capture packets → Explain what the evidence proves.**
+
+### Important limitations
+
+- Docker bridge networking is **not** equivalent to a VM bridged adapter.
+- Docker IPAM assigning an address **does not prove DHCP packet exchange**.
+- A successful ping or internet connection does not alone prove physical topology or NAT behavior.
+- The Docker walkthrough is an **independent practice exercise**, not a claim to satisfy every requirement of an official homework task.
+
+Use these notes for study, and verify technical details through the public primary references linked in the study-notes page.
+
+> No official lecture slides, copyrighted course handouts or graded assessment questions are published here.
