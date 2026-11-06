@@ -1,6 +1,6 @@
 # DS-ACTG-004 — IoT Security
 
-> **Course placeholder — unofficial student study hub.** The initial scheduled class in the opening week did not take place because of the **28 October public holiday**. This statement does **not** confirm whether later sessions have since taken place.
+> **Course placeholder — unofficial student study hub.** We will publish original study content after studying and reviewing the topics together.
 
 No Week 01 notes, quizzes or labs have been published yet. We will add **original** study content once the topics covered in the course are confirmed.
 
