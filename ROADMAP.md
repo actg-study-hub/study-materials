@@ -11,7 +11,7 @@
 | **DS-ACTG-003 — Network Security** | [Study notes](DS-ACTG-003-Network-Security/Week-01/study-notes.md) | [Original exercises](DS-ACTG-003-Network-Security/Week-01/practice-questions.md) | [Docker lab](DS-ACTG-003-Network-Security/Week-01/docker-lab.md) | Extend labs and later weeks |
 | **DS-ACTG-004 — IoT Security** | Not yet published | Not yet published | Not yet published | [Course hub](DS-ACTG-004-IoT-Security/README.md) |
 
-**IoT Security scheduling note:** The initial class planned during the opening week did not take place because of the **28 October public holiday**. This refers to that opening-week session only; **the present teaching status is not verified here**. This repository has not yet published notes for that course.
+**IoT Security:** Original community notes, exercises and labs will be published when we study and review the material together.
 
 ## Recommended study sequence
 
