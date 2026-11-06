@@ -4,6 +4,10 @@
 
 This public repository contains original study notes, reproducible labs, troubleshooting tips, network diagrams, and self-authored practice questions. It is **not affiliated with or endorsed by any university**.
 
+## Study roadmap
+
+Start with the **[ACTG Study Roadmap](ROADMAP.md)** to find published materials, practice questions and labs by course and week.
+
 ## Courses
 
 | Course | Topic | Materials |
@@ -11,10 +15,11 @@ This public repository contains original study notes, reproducible labs, trouble
 | DS-ACTG-001 | Privacy & GDPR | [Week 01](DS-ACTG-001-Privacy-GDPR/Week-01/README.md) |
 | DS-ACTG-002 | Cybersecurity Governance | [Week 01](DS-ACTG-002-Cybersecurity-Governance/Week-01/README.md) |
 | DS-ACTG-003 | Network Security | [Week 01](DS-ACTG-003-Network-Security/Week-01/README.md) |
+| DS-ACTG-004 | IoT Security | [Course hub — material pending](DS-ACTG-004-IoT-Security/README.md) |
 
 ## Contributing
 
-We welcome independently written tutorials, verified commands, sample outputs clearly marked as samples, diagrams, and explanations. Please read [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome independently written tutorials, verified commands, sample outputs clearly marked as samples, diagrams, and explanations. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and our [Content Publication Policy](CONTENT_POLICY.md).
 
 ## Academic integrity and copyright
 
