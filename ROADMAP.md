@@ -1,12 +1,12 @@
 # ACTG MSc — Study Roadmap
 
-> **Unofficial student-led resource.** This page tracks materials published here, not the official syllabus, timetable, assessment status or course completion. Updated: **2026-11-06**.
+> **Unofficial student-led resource.** This page tracks materials published here, not the official syllabus, timetable, assessment status or course completion. Updated: **2026-11-08**.
 
 ## Course progress
 
 | Course | Week 01: community notes | Self-check | Hands-on | Next |
 | --- | --- | --- | --- | --- |
-| **DS-ACTG-001 — Privacy & GDPR** | [Study notes](DS-ACTG-001-Privacy-GDPR/Week-01/study-notes.md) | [Original exercises](DS-ACTG-001-Privacy-GDPR/Week-01/practice-questions.md) | Scenario analysis | Add later weeks when reviewed |
+| **DS-ACTG-001 — Privacy & GDPR** | [Week 01 notes](DS-ACTG-001-Privacy-GDPR/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-001-Privacy-GDPR/Week-02/study-notes.md) | [Week 01](DS-ACTG-001-Privacy-GDPR/Week-01/practice-questions.md) · [Week 02](DS-ACTG-001-Privacy-GDPR/Week-02/practice-questions.md) | Independent scenarios | [Week 02 sources](DS-ACTG-001-Privacy-GDPR/Week-02/references.md) |
 | **DS-ACTG-002 — Cybersecurity Governance** | [Study notes](DS-ACTG-002-Cybersecurity-Governance/Week-01/study-notes.md) | [Original exercises](DS-ACTG-002-Cybersecurity-Governance/Week-01/practice-questions.md) | Scenario analysis | Add later weeks when reviewed |
 | **DS-ACTG-003 — Network Security** | [Study notes](DS-ACTG-003-Network-Security/Week-01/study-notes.md) | [Original exercises](DS-ACTG-003-Network-Security/Week-01/practice-questions.md) | [Docker lab](DS-ACTG-003-Network-Security/Week-01/docker-lab.md) | Extend labs and later weeks |
 | **DS-ACTG-004 — IoT Security** | Not yet published | Not yet published | Not yet published | [Course hub](DS-ACTG-004-IoT-Security/README.md) |
@@ -32,6 +32,7 @@
 
 - [x] Week 01: initial notes and original exercises for DS-ACTG-001/002/003
 - [x] Network Security packet-analysis lab
+- [x] DS-ACTG-001 Week 02 original notes, exercises and public legal sources (proposed via pull request)
 - [x] Public content publication policy
 - [x] Add DS-ACTG-004 — IoT Security course placeholder
 - [ ] Add original IoT Security notes when the taught topics are confirmed
