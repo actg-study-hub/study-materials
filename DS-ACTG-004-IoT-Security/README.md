@@ -1,15 +1,11 @@
 # DS-ACTG-004 — IoT Security
 
-> **Course placeholder — unofficial student study hub.** We will publish original study content after studying and reviewing the topics together.
+> Unofficial community study hub. This material is independently written, not endorsed by any institution.
 
-No Week 01 notes, quizzes or labs have been published yet. We will add **original** study content once the topics covered in the course are confirmed.
+## Available material
 
-## Planned structure (not yet populated)
+- **[Week 01 — IoT Fundamentals](Week-01/README.md)** — [study notes](Week-01/study-notes.md), [original practice](Week-01/practice-questions.md), and [public technical references](Week-01/references.md).
 
-- **Study notes:** concepts explained in original language, with public references.
-- **Self-assessment:** independently written questions and explanations.
-- **Optional safe lab:** authorized IoT simulations or owned-device exercises, if appropriate.
+Additional weeks will be included as original content is reviewed and ready.
 
-For other courses, return to the [Study Roadmap](../ROADMAP.md).
-
-Please consult the [Content Publication Policy](../CONTENT_POLICY.md) before contributing. Official handouts, lecture slides and graded assessments must not be uploaded without authorization.
+See [Study Roadmap](../ROADMAP.md) and [Content Publication Policy](../CONTENT_POLICY.md). Graded tests, restricted teaching material and CTF solutions are excluded.
