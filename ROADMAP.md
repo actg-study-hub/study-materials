@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 | **DS-ACTG-001 — Privacy & GDPR** | [Week 01 notes](DS-ACTG-001-Privacy-GDPR/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-001-Privacy-GDPR/Week-02/study-notes.md) | [Week 01](DS-ACTG-001-Privacy-GDPR/Week-01/practice-questions.md) · [Week 02](DS-ACTG-001-Privacy-GDPR/Week-02/practice-questions.md) | Independent scenarios | [Week 02 sources](DS-ACTG-001-Privacy-GDPR/Week-02/references.md) |
 | **DS-ACTG-002 — Cybersecurity Governance** | [Week 01 notes](DS-ACTG-002-Cybersecurity-Governance/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-002-Cybersecurity-Governance/Week-02/study-notes.md) | [Week 01](DS-ACTG-002-Cybersecurity-Governance/Week-01/practice-questions.md) · [Week 02](DS-ACTG-002-Cybersecurity-Governance/Week-02/practice-questions.md) | Independent scenarios | [Week 02 sources](DS-ACTG-002-Cybersecurity-Governance/Week-02/references.md) |
-| **DS-ACTG-003 — Network Security** | [Study notes](DS-ACTG-003-Network-Security/Week-01/study-notes.md) | [Original exercises](DS-ACTG-003-Network-Security/Week-01/practice-questions.md) | [Docker lab](DS-ACTG-003-Network-Security/Week-01/docker-lab.md) | Extend labs and later weeks |
+| **DS-ACTG-003 — Network Security** | [Week 01 notes](DS-ACTG-003-Network-Security/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-003-Network-Security/Week-02/study-notes.md) | [Week 01](DS-ACTG-003-Network-Security/Week-01/practice-questions.md) · [Week 02](DS-ACTG-003-Network-Security/Week-02/practice-questions.md) | [Week 01 Docker lab](DS-ACTG-003-Network-Security/Week-01/docker-lab.md) | [Week 02 references](DS-ACTG-003-Network-Security/Week-02/references.md) |
 | **DS-ACTG-004 — IoT Security** | [Week 01 notes](DS-ACTG-004-IoT-Security/Week-01/study-notes.md) | [Original practice](DS-ACTG-004-IoT-Security/Week-01/practice-questions.md) | Independent conceptual scenarios | [Week 01 references](DS-ACTG-004-IoT-Security/Week-01/references.md) |
 
 **IoT Security:** Original Week 01 community notes and exercises are proposed for review; later materials will be added as they are prepared.
@@ -32,6 +32,7 @@
 
 - [x] Week 01: initial notes and original exercises for DS-ACTG-001/002/003
 - [x] Network Security packet-analysis lab
+- [x] Network Security Week 02 original notes, exercises and sources (proposed via pull request)
 - [x] DS-ACTG-001 Week 02 original notes, exercises and public legal sources (proposed via pull request)
 - [x] DS-ACTG-002 Week 02 original learning resources (proposed via pull request)
 - [x] Public content publication policy
