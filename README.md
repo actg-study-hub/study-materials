@@ -15,7 +15,7 @@ Start with the **[ACTG Study Roadmap](ROADMAP.md)** to find published materials,
 | DS-ACTG-001 | Privacy & GDPR | [Week 01](DS-ACTG-001-Privacy-GDPR/Week-01/README.md) · [Week 02](DS-ACTG-001-Privacy-GDPR/Week-02/README.md) |
 | DS-ACTG-002 | Cybersecurity Governance | [Week 01](DS-ACTG-002-Cybersecurity-Governance/Week-01/README.md) · [Week 02](DS-ACTG-002-Cybersecurity-Governance/Week-02/README.md) |
 | DS-ACTG-003 | Network Security | [Week 01](DS-ACTG-003-Network-Security/Week-01/README.md) |
-| DS-ACTG-004 | IoT Security | [Course hub — material pending](DS-ACTG-004-IoT-Security/README.md) |
+| DS-ACTG-004 | IoT Security | [Week 01](DS-ACTG-004-IoT-Security/Week-01/README.md) |
 
 ## Contributing
 
