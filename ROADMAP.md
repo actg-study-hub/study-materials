@@ -1,6 +1,6 @@
 # ACTG MSc — Study Roadmap
 
-> **Unofficial student-led resource.** This page tracks materials published here, not the official syllabus, timetable, assessment status or course completion. Updated: **2026-11-08**.
+> **Unofficial student-led resource.** This page tracks materials published here, not the official syllabus, timetable, assessment status or course completion. Updated: **2026-11-09**.
 
 ## Course progress
 
@@ -9,9 +9,9 @@
 | **DS-ACTG-001 — Privacy & GDPR** | [Week 01 notes](DS-ACTG-001-Privacy-GDPR/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-001-Privacy-GDPR/Week-02/study-notes.md) | [Week 01](DS-ACTG-001-Privacy-GDPR/Week-01/practice-questions.md) · [Week 02](DS-ACTG-001-Privacy-GDPR/Week-02/practice-questions.md) | Independent scenarios | [Week 02 sources](DS-ACTG-001-Privacy-GDPR/Week-02/references.md) |
 | **DS-ACTG-002 — Cybersecurity Governance** | [Week 01 notes](DS-ACTG-002-Cybersecurity-Governance/Week-01/study-notes.md) · [Week 02 notes](DS-ACTG-002-Cybersecurity-Governance/Week-02/study-notes.md) | [Week 01](DS-ACTG-002-Cybersecurity-Governance/Week-01/practice-questions.md) · [Week 02](DS-ACTG-002-Cybersecurity-Governance/Week-02/practice-questions.md) | Independent scenarios | [Week 02 sources](DS-ACTG-002-Cybersecurity-Governance/Week-02/references.md) |
 | **DS-ACTG-003 — Network Security** | [Study notes](DS-ACTG-003-Network-Security/Week-01/study-notes.md) | [Original exercises](DS-ACTG-003-Network-Security/Week-01/practice-questions.md) | [Docker lab](DS-ACTG-003-Network-Security/Week-01/docker-lab.md) | Extend labs and later weeks |
-| **DS-ACTG-004 — IoT Security** | Not yet published | Not yet published | Not yet published | [Course hub](DS-ACTG-004-IoT-Security/README.md) |
+| **DS-ACTG-004 — IoT Security** | [Week 01 notes](DS-ACTG-004-IoT-Security/Week-01/study-notes.md) | [Original practice](DS-ACTG-004-IoT-Security/Week-01/practice-questions.md) | Independent conceptual scenarios | [Week 01 references](DS-ACTG-004-IoT-Security/Week-01/references.md) |
 
-**IoT Security:** Original community notes, exercises and labs will be published when we study and review the material together.
+**IoT Security:** Original Week 01 community notes and exercises are proposed for review; later materials will be added as they are prepared.
 
 ## Recommended study sequence
 
@@ -36,7 +36,7 @@
 - [x] DS-ACTG-002 Week 02 original learning resources (proposed via pull request)
 - [x] Public content publication policy
 - [x] Add DS-ACTG-004 — IoT Security course placeholder
-- [ ] Add original IoT Security notes when the taught topics are confirmed
+- [x] Add original IoT Security Week 01 study notes and self-checks (proposed via pull request)
 - [ ] Publish subsequent weeks with sources and review
 - [ ] Periodically audit copyright, privacy and links
 
